@@ -1,2 +1,0 @@
-# Safelink
-Kode Feri Safelink
